@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LISC-XC95144XL.PcbDoc   19.06.2021  01:55:55
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LISC-XC95144XL.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.5mm (19.685mil)        Round          6                6.25 mm (0.25 Inch)
+T2        0.508mm (20mil)          Round          102              489.89 mm (19.29 Inch)
+T3        0.8mm (31.496mil)        Round          52               158.93 mm (6.26 Inch)
+T4        2.7mm (106.299mil)       Round          4                151.90 mm (5.98 Inch)
+T5        1.5mm (59.055mil)        Round          2         NPTH   17.57 mm (0.69 Inch)
+---------------------------------------------------------------------------
+Totals                                            166              824.54 mm (32.46 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

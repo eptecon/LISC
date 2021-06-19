@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\eptecon\LISC-XC95144XL\LISC-XC95144XL.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=4.02
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=12.01
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.02
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,19 @@
+Field=Designator~String~Designator~308|Field=Comment~String~Comment~209|Field=Footprint~String~Footprint~98|Field=Quantity~Integer~Quantity~45|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~LISC-XC95144XL.PrjPCB|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\eptecon\LISC-XC95144XL\LISC-XC95144XL.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [LISC-XC95144XL.PcbDoc]|ReportField=TotalQuantity~53|ReportField=ReportTime~01:46:57|ReportField=ReportDate~19.06.2021|ReportField=ReportDateTime~19.06.2021 01:46:57|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~LISC-XC95144XL.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\eptecon\LISC-XC95144XL\LISC-XC95144XL.PcbDoc
+FID1, FID2, FID3, FID4, FID5, FID6|Comment|FIDUCIAL_ROUND_1MM|6
+P1|Steckv. Picoblade, Header, 6pol|PicoBlade Header 6Pin gerade|1
+IC1|AD9826|SOP65P780-28AM|1
+IC5|ADP3338|SOT223-4L|1
+C1|10uF/16V|1608[0603]|1
+C4, C8||C0805|2
+C2, C5, C6, C7, C9, C10, C11, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23||1608[0603]|18
+C3, C12|Cap Semi|1608[0603]|2
+CON1|Coaxial|U.FL-R-SMT|1
+J1|Header|Molex_Picoflex_12|1
+L1|FB|INDC1608L|1
+J2, J3|M22-7141042|PCBComponent_1|2
+R1, R2, R3, R4, R5, R6||J1-0603|6
+QG1|SG-310 SCF C 48.0MHZ|SG-310_Series|1
+IC3|SN74AHCT244PW|PW020_M|1
+IC4|SN74LVC244APW|PW020_M|1
+TP1, TP2, TP3, TP4, TP5, TP6|TP_SMD|TP100_200_NS|6
+IC2|XC95144XL-7TQG100C|TQG100_N|1

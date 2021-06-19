@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LISC-XC95144XL.PrjPCB]
+   Generated File[LISC-XC95144XL.TXT]
+   Generated File[LISC-XC95144XL.LDP]
+   Generated File[LISC-XC95144XL.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 01:55:55 On 19.06.2021
