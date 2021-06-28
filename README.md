@@ -5,6 +5,7 @@ The Line Image Sensor Controller (LISC) is a universal electronics board that co
 It can be connected to a data acquisition controller (e. g. microcontroller) for further data processing and transmission to a higher-level system. 
 The LISC can be used within optical spectrometers and industrial linear cameras.
 
+![alt text](Documentation/LISC-board.png) 
 
 ### Hardware
 
