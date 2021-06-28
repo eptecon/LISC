@@ -1,4 +1,4 @@
-LISC: Linear Image Sensor Controller
+LISC: Line Image Sensor Controller
 ======
 
 The Line Image Sensor Controller (LISC) is a universal electronics board that contains readout electronics for various linear image sensors (CCD, CMOS APS, FPA). 
