@@ -9,7 +9,7 @@ The LISC can be used within optical spectrometers and industrial linear cameras.
 
 ### Hardware
 
-The Hardware consists of the Electronic Board and the Readout Logic written in VHDL. See [Documentation](/Documentation/LineImageSensorController.pdf) for details.
+The Hardware consists of the Electronic Board and the Readout Logic written in VHDL and running on a Xilinx CPLD. See [Documentation](/Documentation/LineImageSensorController.pdf) for details.
 
 ### Firmware
 
